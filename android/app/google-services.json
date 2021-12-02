@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "36532250451",
+    "project_id": "thelouvre-c8226",
+    "storage_bucket": "thelouvre-c8226.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:36532250451:android:50669ab7ee5f1e5da5e3a6",
+        "android_client_info": {
+          "package_name": "com.example.thelouvre"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "36532250451-ogbpomvoffg1r8ldknasr3u38b1rps9d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.thelouvre",
+            "certificate_hash": "ee04ca805ef671b29dda144f2c167e4c4e73ca4a"
+          }
+        },
+        {
+          "client_id": "36532250451-mdsi5tgqr079ih1os3cs9dq7dddeilrk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEy5gR025MuK5RPTQcS5OcH0VSCKNRk6M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "36532250451-mdsi5tgqr079ih1os3cs9dq7dddeilrk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
